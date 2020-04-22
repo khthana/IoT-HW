@@ -1,6 +1,10 @@
 # IoT-HW
 
-
+<h2>Hardware </h2>
+<ol>    
+    <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/2156601164382649/">วงจรอิเล็กทรอนิกส์ ในมุมมองงานศิลปหัตถกรรม</a></li>    
+</ol>  
+    
 <h2>FPGA </h2>
 <ol>    
   <li> <a href="https://www.iot.eng.kmutnb.ac.th/pub/docs/2019/quartus_prime_lite_cyc4_leds/?fbclid=IwAR0ti6brRmTEv5hd_bp83x2aNc69f_NDDrtxD_VAkJ3FTYCalsh15DbqYDI">แนะนำการใช้บอร์ด Altera Cyclone IV FPGA และซอฟต์แวร์ Quartus Prime Lite </a></li>
