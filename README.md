@@ -2,7 +2,7 @@
 
 <h2>Hardware </h2>
 <ol>    
-    <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/2156601164382649/">วงจรอิเล็กทรอนิกส์ ในมุมมองงานศิลปหัตถกรรม</a></li>    
+    <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/2156601164382649/">วงจรอิเล็กทรอนิกส์ ในมุมมองงานศิลปหัตถกรรม (Circuit Sculpture)</a></li>    
 </ol>  
     
 <h2>FPGA </h2>
