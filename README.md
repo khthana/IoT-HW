@@ -28,6 +28,18 @@
   <li> <a href="https://www.jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/?fbclid=IwAR2Bwlnb8C5hwj1p80pP6zL5Q9CQfU5SAKmSAEJf4VZ78FkkhVZ1tOzgyU4">Jetson Nano + Raspberry Pi Camera</a></li>     
 </ol>
 
+<h2>IoT OS & Services</h2>
+<ol>  
+    <li> <a href="https://www.balena.io/what-is-balena/">balena</a></li>   
+    <li> <a href="https://medium.com/iamgoangle/%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A-rabbitmq-%E0%B9%81%E0%B8%A5%E0%B8%B0-amqp-best-practices-108f6076c330">สิ่งที่น่าสนใจเกี่ยวกับ RabbitMQ และ AMQP Best Practices</a></li>  
+    <li> <a href="https://www.hackster.io/osman1853277/head-to-head-between-aws-iot-and-azure-iot-5bc777?fbclid=IwAR3gw8tXS5TOfSybF66GbPbbXdaxB8Op7EiSv9dnUFLJ7IQ_Uxy6bUQtB6I">Head to Head Between AWS IoT and Azure IoT</a></li>   
+    <li> <a href="https://aws.amazon.com/th/blogs/aws/aws-greengrass-run-aws-lambda-functions-on-connected-devices/">AWS Greengrass</a></li>      
+    <li> <a href="https://medium.com/mmp-li/mongoose-os-aws-iot-esp32-d56346b9b83b">เริ่มต้นใช้งาน Mongoose OS กับ AWS IoT</a></li>     
+    <li> <a href="https://stackoverflow.com/questions/40378582/connecting-esp8266-to-aws-iot">Connecting esp8266 to AWS IoT</a></li>         
+    <li> <a href="https://www.techtalkthai.com/aws-iot-device-simulator-is-announced/">เปิดตัว AWS IoT Device Simulator สร้างอุปกรณ์ IoT จำลองมาทดสอบ IoT Platform ได้บน Cloud</a></li>    
+    <li> <a href="https://www.electronicsforu.com/resources/7-open-source-iot-operating-systems-democratizing-iot-space?utm_source=eotpage&utm_medium=eotpage&utm_campaign=eotpage&utm_content=eotposts">7 open source IoT operating systems That Are Democratizing The IoT Space</a></li>        
+</ol>
+
 <h2>ROS</h2>
 <ol>  
   <li> <a href="https://micro-ros.github.io/?fbclid=IwAR3F0PnE9BaFCK8OzItoW-mIu2tz2p9V6sDIBBLHz6nzyrW_hYCcJ-rxJA0">micro-ROS</a></li> 
