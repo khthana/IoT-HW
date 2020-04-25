@@ -22,6 +22,32 @@
   <li> <a href="https://www.youtube.com/watch?v=J36uCa7lgbk&fbclid=IwAR3-v3mjpETzhXHit9qfrP2XYC-CZQQwFV2oUj-Jt0n0FPzRl67QfEM-bQs">บันทึกการบรรยายในชั้นเรียนวิชา Engineering Electronics</a></li>   
 </ol>
 
+<h2>PM 2.5</h2>
+<ol>  
+  <li> <a href="https://www.facebook.com/watch/?v=321373741824329">ลองทำอุปกรณ์แสดงค่าคุณภาพอากาศ</a></li> 
+  <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/1847728288603273/">ทำเครื่องวัดฝุ่น ด้วยงบไม่ถึงพันบาทครับ อุปกรณ์ Arduino UNO + Sensor PMS7003 + จอ TFTLCD 2.4"</a></li> 
+  <li> <a href="http://www.somkiat.cc/pm2-5-from-xiaomi-smart-air-quality/?fbclid=IwAR2myiB8lZQIhtBpWSxrJxC8h918P_mncsxFCUju7V3vJ3QTWY951Npg0tA">
+สรุปขั้นตอนการดึงข้อมูลจาก Xiaomi Smart Air Quality Monitor PM2.5 Detector</a></li> 
+  <li> <a href="http://www.ayarafun.com/2019/02/how-to-diy-pm25-meter/?fbclid=IwAR0mEAbw7x09bdfYUnPjcRChrw63yG20oMhBY9oaF0z7G6u8gVmv1iAfP6w">อุปกรณ์วัดคุณภาพอากาศ ฝุ่น PM2.5 แบบทำเอง</a></li> 
+  <li> <a href="http://ton.packetlove.com/blog/iot/esp32-node32-lite-pm25-temperature-humidity-sensors-node.html?fbclid=IwAR3NP8TCJTlOGMdW6r3coPccg-paZZ3VsxhCWpdJGipDmNORVSf2177zH-Q">ESP32 (NODE32 LITE) PM2.5+Temperature+Humidity Sensors Node</a></li> 
+  <li> <a href="https://www.facebook.com/notes/cyberk-kob/diy-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%9D%E0%B8%B8%E0%B9%88%E0%B8%99/2481885388520506/">DIY เครื่องวัดอนุภาคฝุ่น</a></li> 
+  <li> <a href="https://jackrobotics.me/esp32-lite-sensirion-sps30-uart-%E0%B8%97%E0%B8%B3%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9D%E0%B8%B8%E0%B9%88%E0%B8%99-diy-%E0%B9%81%E0%B8%9A%E0%B8%9A-maker-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-cbeaba5fbcf5">ESP32 Lite + Sensirion SPS30 {uart} ทำตัววัดฝุ่น DIY แบบ Maker กันเถอะ</a></li> 
+  <li> <a href="https://medium.com/@waratep/sensirion-pm-sensors-sps30-edf7e966734d">Sensirion_PM_Sensors_SPS30 Part 1</a></li> 
+</ol>
+
+<h2>Micro Python</h2>
+<ol>  
+  <li> <a href="https://medium.com/@aid402/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-micropython-%E0%B8%9A%E0%B8%99-esp8266-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B2%E0%B8%A2-usb-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-d3de7b380777">วิธีติดตั้ง micropython บน esp8266 และการใช้งานแบบไม่ต้องต่อสาย usb กับคอมพิวเตอร์</a></li> 
+  <li> <a href="https://medium.com/@aid402/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%97%E0%B8%B3-cross-compile-%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%94-micropython-e57f61ab60b3">วิธีทำ cross compile ไฟล์โค้ด micropython</a></li> 
+  <li> <a href="https://medium.com/@aid402/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B9%88%E0%B8%B2-micropython-%E0%B8%9A%E0%B8%99-esp8266-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99-uart-%E0%B9%84%E0%B8%94%E0%B9%89-59e7e41d5a94">วิธีตั้งค่า micropython บน esp8266 เพื่อใช้กับอุปกรณ์ที่สื่อสารผ่าน UART</a></li> 
+  <li> <a href="https://randomnerdtutorials.com/micropython-mqtt-esp32-esp8266/?fbclid=IwAR1W9NRXAzz1v2xAu___XI1HRw4ZB6suMHwYmvNOERDXpNBWvNVrt3Ymn1g">MicroPython – Getting Started with MQTT on ESP32/ESP8266</a></li>     
+  <li> <a href="https://www.facebook.com/groups/109676182999340/permalink/329573194342970/">การใช้งาน Tronny Python IDE</a></li> 
+  <li> <a href="https://medium.com/@apisake/esp32-%E0%B8%81%E0%B8%B1%E0%B8%9A-micropython-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-1-7ad1a6f0fe8e">ESP32 กับ MicroPython (ตอนที่ 1)</a></li> 
+  <li> <a href="https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo?fbclid=IwAR1tLrbSQBzQ2A2uBDO4ZH4NnbhIQKLdOeSzgK6cNN9KeSuirbShLDUcqZo">MicroPython_ESP32_psRAM_LoBo</a></li> 
+  <li> <a href="https://github.com/tsaarni/micropython-with-esp32-cam?fbclid=IwAR1VqPAP2HiZujyiq2OuckWN-wDxz2wRKrvRbIrQbKKVqhY0YOUFJLOaqMo">
+micropython-with-esp32-cam </a></li>         
+    
+
 <h2>Jetson</h2>
 <ol>  
   <li> <a href="https://medium.com/@dnjooiopa/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B3-ai-%E0%B9%81%E0%B8%A5%E0%B8%B0-image-processing-%E0%B8%9A%E0%B8%99-nvidia-jetson-nano-developer-kit-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89-tensorrt-b212546b8ec1">ลองทำ Image Processing บน Nvidia Jetson Nano Developer Kit โดยใช้ TensorRT</a></li>   
@@ -80,7 +106,6 @@ MaixPy </a></li>
     <li> <a href="http://code.isaranu.com/node/2017/nodejs-iot-simple-protocol-dashboard.php">สร้าง IoT protocol + database + dashboard ไว้ใช้งานเอง</a></li>       
     <li> <a href="https://www.instructables.com/id/POWERFUL-Wi-Fi-REPEATER-NODE-MCU/">POWERFUL Wi-Fi REPEATER</a></li>       
     <li> <a href="https://www.facebook.com/watch/?v=818963711813144">พ่นฟองสบู่</a></li>       
-    <li> <a href="https://www.facebook.com/watch/?v=518971445281045">2 wheels bicycle balance robot</a></li>          
-    <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/2156601164382649/">Circuit Sculpture</a></li>    
+    <li> <a href="https://www.facebook.com/watch/?v=518971445281045">2 wheels bicycle balance robot</a></li>           
     <li> <a href="https://www.balena.io/what-is-balena/">balena</a></li>        
 </ol>
