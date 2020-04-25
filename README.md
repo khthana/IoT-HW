@@ -72,7 +72,15 @@ MaixPy </a></li>
 <h2>Etc</h2>
 <ol>   
   <li> <a href="https://medium.com/@yogeshojha/i-hacked-xiaomi-miband-3-and-here-is-how-i-did-it-43d68c272391">I hacked MiBand 3, and here is how I did it. Part I</a></li>   
- 
-    <li> <a href="https://easyeda.com/editor">Easy EDA</a></li>   
-    <li> <a href="https://easyeda.com/editor">Easy EDA</a></li>   
-    <li> <a href="https://easyeda.com/editor">Easy EDA</a></li>     
+    <li> <a href="https://medium.com/@chaveeissariyapat/%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%99%E0%B9%8C%E0%B9%81%E0%B8%9A%E0%B8%9A-i-t-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-netpie-98b6e12c88e2#.dwjdw87wk">ส่งความรักวันวาเลนไทน์แบบ I❤T ด้วย NETPIE</a></li>   
+    <li> <a href="https://medium.com/@supotsaeea/blynk-local-server-on-windows-d1101bd8bea6">Blynk local server on Windows</a></li>   
+    <li> <a href="http://www.daydev.com/iot/iot-arduino-with-firebase-real-time-database.html">การเชื่อมต่อ IoT Arduino เข้ากับ Firebase Real-time Database</a></li>     
+    <li> <a href="https://www.youtube.com/watch?v=BPMBZBk7qQE&fbclid=IwAR16q8mHaPQw7A37wDc3C_ziXUd6IrGs3ZXBDl2Xs66cgWp-AYbM9_BU-Fs">2016 All Japan Robotrace contest</a></li>   
+    <li> <a href="https://lab.ruuvi.com/espruino?fbclid=IwAR0THP0YfCMcRGZ7TtzpbcYM8tezbalEHaa_3bkTEd9uJGPqEAhYysqNfXc">Program RuuviTag</a></li>   
+    <li> <a href="http://code.isaranu.com/node/2017/nodejs-iot-simple-protocol-dashboard.php">สร้าง IoT protocol + database + dashboard ไว้ใช้งานเอง</a></li>       
+    <li> <a href="https://www.instructables.com/id/POWERFUL-Wi-Fi-REPEATER-NODE-MCU/">POWERFUL Wi-Fi REPEATER</a></li>       
+    <li> <a href="https://www.facebook.com/watch/?v=818963711813144">พ่นฟองสบู่</a></li>       
+    <li> <a href="https://www.facebook.com/watch/?v=518971445281045">2 wheels bicycle balance robot</a></li>          
+    <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/2156601164382649/">Circuit Sculpture</a></li>    
+    <li> <a href="https://www.balena.io/what-is-balena/">balena</a></li>        
+</ol>
