@@ -28,6 +28,15 @@
   <li> <a href="https://www.jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/?fbclid=IwAR2Bwlnb8C5hwj1p80pP6zL5Q9CQfU5SAKmSAEJf4VZ78FkkhVZ1tOzgyU4">Jetson Nano + Raspberry Pi Camera</a></li>     
 </ol>
 
+<h2>Sipeed</h2>
+<ol>  
+    <li> <a href="https://medium.com/@lamloei.com/lamloei-aiot-daan-blink-317970ac8a61">LamLoei AIoT DaaN Blink</a></li>   
+    <li> <a href="https://github.com/sipeed/MaixPy?fbclid=IwAR03uLcQRzAnuxw0RrRLKa82ILN4w1ALSOO9745UNREp7WaYDBGQbiHzDx0"> sipeed /
+MaixPy </a></li>   
+    <li> <a href="https://medium.com/chiang-mai-maker-club/%E0%B8%97%E0%B8%B3-face-detection-%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B9%86-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-sipeed-maix-board-a135f5a57af9">ทำ Face Detection ง่าย ๆ ด้วย Sipeed Maix board</a></li>   
+    <li> <a href="https://docs.platformio.org/en/latest/tutorials/riscv/riscv_asm_video_tutorial.html?fbclid=IwAR114ucoJoCZ0pbPI4i7duaARK9rer37USEWq_SNBqNdUtPHTKIFxK6clS0">RISC-V ASM Video Tutorial</a></li>       
+</ol>
+
 <h2>IoT OS & Services</h2>
 <ol>  
     <li> <a href="https://www.balena.io/what-is-balena/">balena</a></li>   
