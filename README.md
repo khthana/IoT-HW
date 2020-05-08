@@ -21,6 +21,7 @@
   <li> <a href="http://bungmus.blogspot.com/2017/02/relay-module-embedded-system-raspberry.html">สร้าง Relay Module อย่างง่าย</a></li>    
   <li> <a href="https://www.eanic.com/transistor-driver-load-circuits/">วงจรทรานซิสเตอร์ขับโหลดทั่วไป</a></li>   
   <li> <a href="https://www.youtube.com/watch?v=J36uCa7lgbk&fbclid=IwAR3-v3mjpETzhXHit9qfrP2XYC-CZQQwFV2oUj-Jt0n0FPzRl67QfEM-bQs">บันทึกการบรรยายในชั้นเรียนวิชา Engineering Electronics</a></li>   
+  <li> <a href="http://www.ayarafun.com/2016/03/top-10-online-electronics-design-automation/">โปรแกรมจำลองการทำงานวงจรไฟฟ้าแบบออนไลน์ ที่ดีที่สุด 10 อันดับ</a></li>      
 </ol>
 
 <h2>PM 2.5</h2>
