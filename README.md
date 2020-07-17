@@ -119,3 +119,12 @@ MaixPy </a></li>
     <li> <a href="https://www.balena.io/what-is-balena/">balena</a></li>        
     <li> <a href="https://create.arduino.cc/projecthub/Arduino_Genuino/arduino-iot-cloud-google-sheets-integration-71b6bc?fbclid=IwAR0eLWiIV3x6JWIv_DA8wZXnS8h_9ilMNc98-VnIEIaezUNQwMVod11a4Zc">Arduino IoT Cloud Google Sheets</a></li>         
 </ol>
+
+<h2>Smart Home</h2>
+<ol>  
+    <li> <a href="http://news.ch3thailand.com/economy/45372">Smart Home บ้านอัจฉริยะ</a></li>   
+    <li> <a href="https://www.youtube.com/watch?v=wh0OoLUTeM8">Home automation - Raspberry Pi 3, NodeJS & React Native | Deepsyx</a></li>   
+    <li> <a href="https://www.hackster.io/hackershack/smart-security-camera-90d7bd">Smart Security Camera</a></li>       
+    <li> <a href="https://medium.com/@supotsaeea/sonoff-with-nodered-without-firmware-upgrade-10ed3e33466d">Sonoff with NodeRED without firmware upgrade</a></li>         
+</ol>  
+
