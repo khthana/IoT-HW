@@ -117,6 +117,7 @@ MaixPy </a></li>
     <li> <a href="https://www.facebook.com/watch/?v=818963711813144">พ่นฟองสบู่</a></li>       
     <li> <a href="https://www.facebook.com/watch/?v=518971445281045">2 wheels bicycle balance robot</a></li>           
     <li> <a href="https://www.balena.io/what-is-balena/">balena</a></li>        
+    <li> <a href="https://www.facebook.com/vsupacha.engrtu/videos/2252234894871213/">bit racer แข่งขัน</a></li>          
     <li> <a href="https://create.arduino.cc/projecthub/Arduino_Genuino/arduino-iot-cloud-google-sheets-integration-71b6bc?fbclid=IwAR0eLWiIV3x6JWIv_DA8wZXnS8h_9ilMNc98-VnIEIaezUNQwMVod11a4Zc">Arduino IoT Cloud Google Sheets</a></li>         
 </ol>
 
