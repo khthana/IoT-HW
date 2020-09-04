@@ -122,7 +122,8 @@ MaixPy </a></li>
     <li> <a href="https://www.instructables.com/id/POWERFUL-Wi-Fi-REPEATER-NODE-MCU/">POWERFUL Wi-Fi REPEATER</a></li>       
     <li> <a href="https://www.facebook.com/watch/?v=818963711813144">พ่นฟองสบู่</a></li>       
     <li> <a href="https://www.facebook.com/watch/?v=518971445281045">2 wheels bicycle balance robot</a></li>           
-    <li> <a href="https://www.balena.io/what-is-balena/">balena</a></li>        
+    <li> <a href="https://www.balena.io/what-is-balena/">balena</a></li>    
+    <li> <a href="https://medium.com/@kritsadaj/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-micro-bit-%E0%B8%81%E0%B8%B1%E0%B8%9A-android-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99-otg-925e8ae764d3">ดาวน์โหลด micro:bit กับ Android ผ่าน OTG</a></li>         
     <li> <a href="https://www.facebook.com/vsupacha.engrtu/videos/2252234894871213/">bit racer แข่งขัน</a></li>          
     <li> <a href="https://create.arduino.cc/projecthub/Arduino_Genuino/arduino-iot-cloud-google-sheets-integration-71b6bc?fbclid=IwAR0eLWiIV3x6JWIv_DA8wZXnS8h_9ilMNc98-VnIEIaezUNQwMVod11a4Zc">Arduino IoT Cloud Google Sheets</a></li>         
 </ol>
