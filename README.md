@@ -9,7 +9,9 @@
 <h2>Hardware </h2>
 <ol>    
     <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/2156601164382649/">วงจรอิเล็กทรอนิกส์ ในมุมมองงานศิลปหัตถกรรม (Circuit Sculpture)</a></li>    
-    <li> <a href="https://www.mcucity.com/product/1797/sn-2549-ph2-0-sm-plug-terminal-spring-clamp-terminals-crimping-tool-crimping-pliers-for-d-sub-termin">SN-2549 PH2.0 SM plug terminal</a></li>        
+    <li> <a href="https://www.mcucity.com/product/1797/sn-2549-ph2-0-sm-plug-terminal-spring-clamp-terminals-crimping-tool-crimping-pliers-for-d-sub-termin">SN-2549 PH2.0 SM plug terminal</a></li>    
+    <li> <a href="https://www.facebook.com/watch/?v=499418133841971&extid=GdilLd8bDxgOJGdq">เรือที่ใช้ Gyro</a></li>
+    
 </ol>  
     
 <h2>FPGA </h2>
