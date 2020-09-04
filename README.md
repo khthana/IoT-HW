@@ -13,6 +13,7 @@
     <li> <a href="https://www.facebook.com/watch/?v=499418133841971&extid=GdilLd8bDxgOJGdq">เรือที่ใช้ Gyro</a></li>
     <li> <a href="https://www.facebook.com/shodelta/videos/875454352643763/">หุ่นกระดาษ พลังลม</a></li>       
     <li> <a href="https://www.facebook.com/watch/?ref=saved&v=10156983437809369">หุ่นกระดาษ พลังลม</a></li>     
+    <li> <a href="https://www.facebook.com/maggiemok1011/videos/153545172194224/">หุ่นกระป๋อง</a></li>        
     <li> <a href="https://www.facebook.com/makerfairebangkok/posts/2044262732501534">Maker Faire</a></li>    
     <li> <a href="https://www.facebook.com/makerfairebangkok/posts/2044683895792751">Maker Faire</a></li>   
 </ol>  
