@@ -24,6 +24,7 @@
     <li> <a href="https://www.facebook.com/makerfairebangkok/posts/2044683895792751">Maker Faire</a></li>   
     <li> <a href="https://www.facebook.com/watch/?ref=saved&v=926309387820692">Robot Artist</a></li>       
     <li> <a href="https://www.facebook.com/watch/?ref=saved&v=323592642102831">ระบบค้นหารถยนตร์</a></li>     
+    <li> <a href="https://www.facebook.com/groups/1797112293924050/permalink/2367278573574083/">วัดความชื้นในดิน</a></li>         
 </ol>  
     
 <h2>FPGA </h2>
