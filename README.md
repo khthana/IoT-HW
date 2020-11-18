@@ -9,7 +9,8 @@
 <h2>Micro Bit </h2>
 <ol>    
     <li> <a href="https://www.facebook.com/watch/?ref=saved&v=1081205105393593">micro:bit Invaders</a></li>    
-    <li> <a href="https://www.mcucity.com/product/1797/sn-2549-ph2-0-sm-plug-terminal-spring-clamp-terminals-crimping-tool-crimping-pliers-for-d-sub-termin">SN-2549 PH2.0 SM plug terminal</a></li>        
+    <li> <a href="https://www.mcucity.com/product/1797/sn-2549-ph2-0-sm-plug-terminal-spring-clamp-terminals-crimping-tool-crimping-pliers-for-d-sub-termin">SN-2549 PH2.0 SM plug terminal</a></li>      
+    https://www.facebook.com/groups/bbc.micro.bit/permalink/3260248467392252/    
 </ol>  
 
 <h2>Hardware </h2>
